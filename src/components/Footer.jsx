@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react'
-import europeanSupport from "../styles/images/europeanSupport.jpg";
-import europeanUnion from "../styles/images/europeanUnion.jpg";
-import poland from "../styles/images/poland.jpg";
+import europeanSupport from "../styles/images/europeanSupport.svg";
+import europeanUnion from "../styles/images/europeanUnion.svg";
+import poland from "../styles/images/poland.svg";
 
 const Footer = () => {
     const button = useRef(null);
