@@ -1,0 +1,2 @@
+(this.webpackJsonpwalksee=this.webpackJsonpwalksee||[]).push([[4],{15:function(e,s,a){"use strict";a.r(s);a(1);var c=a.p+"static/media/circleLogo.4e247ca6.svg",t=a.p+"static/media/walkseeTextVector.609c4101.svg",o=a(0);s.default=function(){return Object(o.jsx)(o.Fragment,{children:Object(o.jsxs)("header",{className:"header_Container",children:[Object(o.jsx)("img",{className:"logoIcon",src:c,alt:"logo"}),Object(o.jsx)("img",{className:"logoText",src:t,alt:"logo"})]})})}}}]);
+//# sourceMappingURL=4.9151c603.chunk.js.map
