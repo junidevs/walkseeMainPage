@@ -11,5 +11,6 @@
     <orderEntry type="module" module-name="horeca-back" />
     <orderEntry type="module" module-name="horeca-front" />
     <orderEntry type="module" module-name="e-statyw" />
+    <orderEntry type="module" module-name="funnyGames" />
   </component>
 </module>
